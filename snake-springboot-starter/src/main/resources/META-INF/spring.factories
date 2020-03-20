@@ -1,0 +1,6 @@
+#Auto Configurations
+org,springframework.boot.autoconfigure.EnableAutoConfiguration=\
+snake.autoconfigure.AsyncAutoConfiguration,\
+snake.autoconfigure.FastJsonAutoConfiguration,\
+snake.autoconfigure.LoggingAspectAutoConfiguration,\
+snake.autoconfigure.WebConfigguration
