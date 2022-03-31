@@ -45,7 +45,7 @@
 <!--		<docker.image.version>${project.version}</docker.image.version>-->
 
 		<!--dependencies version-->
-		<spring-boot.version>2.0.9.RELEASE</spring-boot.version>
+		<spring-boot.version>2.5.12</spring-boot.version>
 		<spring-cloud.version>Finchley.SR2</spring-cloud.version>
 
 <!--		<jhipster-dependencies.version>2.1.1</jhipster-dependencies.version>-->
